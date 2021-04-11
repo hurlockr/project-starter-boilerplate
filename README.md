@@ -12,4 +12,5 @@ This is very simple boilerplate for creating mini projects in HTML, CSS & JavaSc
 
 3. From a terminal window, change to the local directory where you want to clone your repository.
 
-4. Paste the command you copied from Bitbucket, for example: `$ git clone https://github.com/hurlockr/project-starter-boilerplate.git`
+4. Paste the command you copied from Bitbucket, for example:
+   `$ git clone https://github.com/hurlockr/project-starter-boilerplate.git`
